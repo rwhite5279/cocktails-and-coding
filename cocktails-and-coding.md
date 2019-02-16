@@ -11,7 +11,7 @@ Setup
 5. Software used: Terminal, Text editor, Browser (Safari, Firefox, Chrome)
 6. Other hardware/props:
     1. binary demo device
-6. Cocktails!
+7. Cocktails!
 
 Curriculum (2 hours, not including drinking)
 --------------------------------------------
@@ -41,7 +41,7 @@ Curriculum (2 hours, not including drinking)
     1. Programming requires thinking about problems creatively
         1. Counting words (spaces, inWord / not inWord) (5 min)
         2. Anagrams  (5 min)
-    3. Jim Reekes video (5 min)
+    2. Jim Reekes video (5 min)
 
 5. Python (using trinket.io). Programmed together:
 
@@ -52,7 +52,7 @@ Curriculum (2 hours, not including drinking)
     5. Magic 8 Ball - 20 min  
         1. [magic8ball.py](./code/magic8ball.py) - basic fortune (random number, if statement)
         2. [magic8ball.py](./code/magic8ball-v2.py) - repeated in a loop (while-loop)
-    5. [numberguesser.py](numberguesser.py) - random numbers, if statements, loops, compound
+    6. [numberguesser.py](numberguesser.py) - random numbers, if statements, loops, compound
                           boolean condition
 
 

@@ -58,7 +58,7 @@ Commands to try:
 4. [secretmessage.py](../code/secretmessage.py) - if statement, blocks of code (10 min)
 5. Magic 8 Ball - 20 min  
     1. [magic8ball.py](../code/magic8ball.py) - basic fortune (random number, if statement)
-    2. [magic8ball.py](../code/magic8ball-v2.py) - repeated in a loop (while-loop)
+    2. [magic8ball-v2.py](../code/magic8ball-v2.py) - repeated in a loop (while-loop)
 6. [number-guessing-game.py](../code/number-guessing-game.py) - random numbers, if statements, loops, compound
                       boolean condition
 

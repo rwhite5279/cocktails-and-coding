@@ -47,8 +47,8 @@ Commands to try:
 
 ### 4. Computational Thinking
 1. Programming requires thinking about problems creatively
-    1. Counting words - 2 algorithms: spaces, inWord / not inWord (5 min)
-    2. Anagrams - multiple solutions (5 min)
+    1. Counting words - [2 algorithms](./counting-words.md): spaces, inWord / not inWord (5 min)
+    2. Anagrams - [multiple solutions](./anagrams.md) (5 min)
 2. Jim Reekes video [YouTube](https://youtu.be/tmtrO2s7dYY) (5 min)
 
 ### 5. Python using [trinket.io](trinket.io) . Programmed together:

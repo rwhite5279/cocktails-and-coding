@@ -22,11 +22,6 @@ Software
 
 As implied above, the software used in this workshop is simply the macOS/OS X Terminal and a browser using the trinket.io serviceis recommended. This bypasses the challenges associated with having new programmers having to learn how to manage a text editor, terminal window, and file system--there simply isn't enough time in the two hours allotted for this workshop to teach everything.
 
-Software
---------
-
-As implied above, the software used in this workshop is simply the macOS/OS X Terminal and a browser using the [trinket.io](trinket.io) service.
-
 Author
 ------
 

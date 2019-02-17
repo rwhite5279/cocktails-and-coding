@@ -1,5 +1,7 @@
-Cocktails and Coding
-====================
+Cocktails and Coding - Overview
+===============================
+
+See specific notes and links for these items in the [presentation notes](./presentation-notes).
 
 Setup
 -----
@@ -17,11 +19,11 @@ Curriculum (2 hours, not including drinking)
 --------------------------------------------
 
 1. Computer Science introduction - 15 min
-    1. Comp Sci vs. Computer Programming (explanation)
-    2. binary system (demo)
-    3. computer running binary (video)
-    4. encapsulation (qualitative)
-    5. c -> assembly -> binary  (computer demo)
+    1. Comp Sci vs. Computer Programming - explanation
+    2. binary system - demo with device
+    3. computer running binary - video
+    4. encapsulation - qualitative discussion
+    5. c -> assembly -> binary - computer demo
 
 2. File system with window environment
     1. files
@@ -45,15 +47,14 @@ Curriculum (2 hours, not including drinking)
 
 5. Python (using trinket.io). Programmed together:
 
-    1. [helloworld.py](./code/helloworld.py) - print statement (5 min)
-    2. [helloworld-personal.py](./code/helloworld-personal.py) - (input statement, assignment (5 min)
-    3. [happybirthday.py](./code/happybirthday.py) - working w/ numbers, changing values (10 min)
-    4. [secretmessage.py](./code/secretmessage.py) - if statement, blocks of code (10 min)
+    1. `helloworld.py` - print statement (5 min)
+    2. `helloworld-personal.py` - input statement, assignment (5 min)
+    3. `happybirthday.py` - working w/ numbers, changing values (10 min)
+    4. `secretmessage.py` - if statement, blocks of code (10 min)
     5. Magic 8 Ball - 20 min  
-        1. [magic8ball.py](./code/magic8ball.py) - basic fortune (random number, if statement)
-        2. [magic8ball.py](./code/magic8ball-v2.py) - repeated in a loop (while-loop)
-    6. [numberguesser.py](numberguesser.py) - random numbers, if statements, loops, compound
-                          boolean condition
+        1. `magic8ball.py` - basic fortune (random number, if statement)
+        2. `magic8ball-v2.py` - repeated in a loop (while-loop)
+    6. `numberguesser.py` - random numbers, if statements, loops, compound boolean condition
 
 
 

@@ -1,10 +1,19 @@
 Encapsulation
 =============
             
-The idea of *encapsulation* is fundamental to computers in a number of ways. Generally speaking, "encapsulation" refers to the idea of building a container around something, as if that thing were contained in a capsule. When it comes to computers, there are a couple of slightly different ways the term might be used.
+The idea of *encapsulation* is fundamental to computers in a number of ways. Generally speaking, "encapsulation" refers to the idea of building a container around something, as if that thing were contained in a capsule. 
+
+Example of Encapsulation: a Car
+-------------------------------
+
+The automobile is a classic example of encapsulation: you don't need to know how the engine works, or what chemical processes were involved in creating the gasoline it uses, or how the brakes or the transmission work. The many processes that are involved in making an automobile move are neatly encapsulated in the concept of a "car," and for the most part, we don't need to know about them to be able to drive it.
+
+Depending on what you do, however, it may be to your benefit to know about how at least some of these processes work. In some cases knowing more about what's going on "underneath the hood" may even make you a faster driver, or a better driver, or a safer driver.
 
 Hiding code in a class, function, or library
 --------------------------------------------
+
+When it comes to computers, there are a couple of slightly different ways the term "encapsulation" might be used.
 
 Commonly in computer programming, *encapsulation* refers to the idea of hiding away the details of code. For example, you may write a bit of Python code that takes three coefficients for a quadratic equation `a`, `b`, and `c`, and calculates the real roots (solutions) of that equation:
 

@@ -30,7 +30,7 @@ A second way of considering encapsulation is less obvious, but one that we use a
 
 You have almost certainly seen computer programs written in some "high-level" language like Python or Java. These languages are called high-level because they, for the most part, consists of syntax that might be recognized and understood.
 
-Here's a program that's written in C, which adds up the numbers from 0 to 255 and prints out the result:
+Here's a program, `sum.c`, that's written in C, which adds up the numbers from 0 to 255 and prints out the result:
 
     # include <stdio.h>
 
@@ -60,7 +60,7 @@ It doesn't. But there is another program on the computer--a *compiler*--that is 
 
 I'm going to use the compiler to output a compiled version of the program.
 
-    $ gcc -o sum sum.c</div>
+    $ gcc -o sum sum.c
 
 What does this new version of the program look like? We can see the Assembly Language version here:
     

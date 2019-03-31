@@ -52,15 +52,14 @@ Commands to try:
 2. Jim Reekes video [YouTube](https://youtu.be/tmtrO2s7dYY) (5 min)
 
 ### 5. Python using [trinket.io](trinket.io) . Programmed together:
-1. [helloworld.py](../code/helloworld.py) - print statement (5 min)
-2. [helloworld-personal.py](../code/helloworld-personal.py) - (input statement, assignment (5 min)
-3. [happybirthday.py](../code/happybirthday.py) - working w/ numbers, changing values (10 min)
-4. [secretmessage.py](../code/secretmessage.py) - if statement, blocks of code (10 min)
+1. [helloworld.py](../code/1_helloworld.py) - print statement (5 min)
+2. [helloworld-personal.py](../code/2_helloworld-personal.py) - (input statement, assignment (5 min)
+3. [happybirthday.py](../code/3_happybirthday.py) - working w/ numbers, changing values (10 min)
+4. [secretmessage.py](../code/4_secretmessage.py) - if statement, blocks of code (10 min)
 5. Magic 8 Ball - 20 min  
-    1. [magic8ball.py](../code/magic8ball.py) - basic fortune (random number, if statement)
-    2. [magic8ball-v2.py](../code/magic8ball-v2.py) - repeated in a loop (while-loop)
-6. [number-guessing-game.py](../code/number-guessing-game.py) - random numbers, if statements, loops, compound
-                      boolean condition
+    1. [magic8ball.py](../code/5_1_magic8ball.py) - basic fortune (random number, if statement)
+    2. [magic8ball-v2.py](../code/5_2_magic8ball-v2.py) - repeated in a loop (while-loop)
+6. [number-guessing-game.py](../code/6_number-guessing-game.py) - random numbers, if statements, loops, compound boolean condition
 
 
 
